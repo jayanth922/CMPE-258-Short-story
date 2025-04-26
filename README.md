@@ -6,10 +6,10 @@
 ## 📖 Overview  
 This repository contains my individual “short story” assignment—a deep survey and narrative on the paper **“Foundation Models for Time Series: A Survey”** (arXiv:2504.04011, April 2025). You’ll find:
 
-- A **Medium.com article** distilling the paper’s insights for a general ML audience  
-- A **Slide deck** (PowerPoint + PDF) for a 15–25 minute presentation  
-- A **15–18 minute video** walkthrough hosted on YouTube  
-- The original **PDF of the paper** and all **illustrations** referenced in the story  
+- A **Medium.com article** Link : https://medium.com/@jayanth.kalyanam/in-recent-years-foundation-models-large-transformers-pre-trained-on-massive-diverse-corpora-2027d530b068
+- A **Slide deck**
+- A **Youtube video** Link : https://youtu.be/V-OvA6ywY9s
+- A **The Survey Paper** Link : https://arxiv.org/pdf/2504.04011
 
 ---
 
@@ -30,3 +30,7 @@ Traditional time-series forecasting and analysis require bespoke models for each
 - **Graduate students** and **early-career researchers** in ML/DS  
 - **Practitioners** seeking an entry point into time-series foundation models  
 - **Educators** looking for concise teaching materials on modern forecasting  
+
+
+## 📚 Citation  
+Kottapalli, S. R. K., Hubli, K., Chandrashekhara, S., Jain, G., Hubli, S., Botla, G., & Doddaiah, R. (2025). *Foundation Models for Time Series: A Survey*. arXiv:2504.04011.
