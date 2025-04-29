@@ -7,7 +7,7 @@
 This repository contains my individual “short story” assignment—a deep survey and narrative on the paper **“Foundation Models for Time Series: A Survey”** (arXiv:2504.04011, April 2025). You’ll find:
 
 - A **Medium.com article** Link : https://medium.com/@jayanth.kalyanam/in-recent-years-foundation-models-large-transformers-pre-trained-on-massive-diverse-corpora-2027d530b068
-- A **Slide deck**
+- A **Slide deck** on slideshare.net : https://www.slideshare.net/slideshow/foundation-models-for-time-series-a-survey/278541537
 - A **Youtube video** Link : https://youtu.be/V-OvA6ywY9s
 - A **The Survey Paper** Link : https://arxiv.org/pdf/2504.04011
 
